@@ -10,3 +10,6 @@ The attached file is a fake tweet bot detection system. The way it was created w
   a) Logistic Regression
   b) Decision Tree
   c) Random Forest
+
+
+## Within the notebook is a more in-depth write-up of what is being done going along with the code, so it is more understandable.
